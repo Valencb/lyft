@@ -1,0 +1,61 @@
+body {
+ font-family: 'Montserrat', sans-serif;
+ background-image: url("../assets/images/hero.gif");
+ box-sizing: border-box;
+ display: block;
+ height: 40em;
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+
+/*--Navigation---------------------------------------------------*/
+
+.logo{
+ text-align: left;
+ height: 2em;
+ padding-left: 5%;
+ padding-top: 3em;
+ width: 3em;
+}
+
+/*--Navigation-Menu---------------------------------------------*/
+
+.menu {
+color:white;
+box-sizing: border-box;
+display: inline-block;
+left: 45%;
+padding: 1em;
+position: relative;
+width: 50%;
+}
+
+.menu a:hover{
+color: #ff00bf;
+}
+
+.menu a {
+color:white;
+font-size: 15px;
+margin: 1px;
+padding: 40px;
+text-decoration: none;
+}
+
+/*--Cover-------------------------------------------------------*/
+
+section{
+
+}
+
+
+
+.signup {
+ box-sizing: border-box;
+ display: inline-block;
+ color:#352384;
+ background-color: white;
+ position: relative;
+}/*
+ * Estilos de tu proyecto
+ */
